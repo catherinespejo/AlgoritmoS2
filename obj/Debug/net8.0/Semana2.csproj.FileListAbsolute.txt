@@ -1,0 +1,14 @@
+C:\Users\gabri\source\repos\Semana2\Semana2\bin\Debug\net8.0\Semana2.exe
+C:\Users\gabri\source\repos\Semana2\Semana2\bin\Debug\net8.0\Semana2.deps.json
+C:\Users\gabri\source\repos\Semana2\Semana2\bin\Debug\net8.0\Semana2.runtimeconfig.json
+C:\Users\gabri\source\repos\Semana2\Semana2\bin\Debug\net8.0\Semana2.dll
+C:\Users\gabri\source\repos\Semana2\Semana2\bin\Debug\net8.0\Semana2.pdb
+C:\Users\gabri\source\repos\Semana2\Semana2\obj\Debug\net8.0\Semana2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\source\repos\Semana2\Semana2\obj\Debug\net8.0\Semana2.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\Semana2\Semana2\obj\Debug\net8.0\Semana2.AssemblyInfo.cs
+C:\Users\gabri\source\repos\Semana2\Semana2\obj\Debug\net8.0\Semana2.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\Semana2\Semana2\obj\Debug\net8.0\Semana2.dll
+C:\Users\gabri\source\repos\Semana2\Semana2\obj\Debug\net8.0\refint\Semana2.dll
+C:\Users\gabri\source\repos\Semana2\Semana2\obj\Debug\net8.0\Semana2.pdb
+C:\Users\gabri\source\repos\Semana2\Semana2\obj\Debug\net8.0\Semana2.genruntimeconfig.cache
+C:\Users\gabri\source\repos\Semana2\Semana2\obj\Debug\net8.0\ref\Semana2.dll
